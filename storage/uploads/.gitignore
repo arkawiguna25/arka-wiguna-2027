@@ -1,0 +1,3 @@
+# Berkas unggahan disimpan di direktori ini; jangan unggah dokumen pengguna ke Git.
+*
+!.gitignore
